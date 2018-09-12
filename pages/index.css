@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#__next {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background: #f2f2f2;
+}
+
+.Index {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
